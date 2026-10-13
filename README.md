@@ -302,4 +302,4 @@ streamlit run app.py
 
 ## 👤 Author
 
-*Add your name, GitHub, and LinkedIn here.*
+*Fowad Ajmal*
