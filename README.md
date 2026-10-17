@@ -30,7 +30,7 @@ Customer-Churn-Prediction/
 
 > ⚠️ **Important:** `app.py`, `final_svm_model.pkl`, and `scaler.pkl` must
 > all live in the **same folder** to run the app — the app loads the
-> `.pkl` files by relative path.
+> `.pkl` files by relative path. 
 
 ---
 
