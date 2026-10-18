@@ -299,7 +299,3 @@ streamlit run app.py
 ```
 
 ---
-
-## 👤 Author
-
-*Fowad Ajmal*
